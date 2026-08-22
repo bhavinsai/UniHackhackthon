@@ -1,0 +1,6 @@
+{
+  "name": "Product Intelligence",
+  "description": "Unilog Industrial Product Data Enrichment Pipeline with 8-stage transformation, master UOM standards, UniCat brand matching, and 5-tier description generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
